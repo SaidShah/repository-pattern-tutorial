@@ -1,0 +1,4 @@
+C:\Users\saidm\Desktop\Projects\RepositoryPatternsProject\RepositoryPatternsProject\obj\Debug\netcoreapp2.2\RepositoryPatternsProject.csprojAssemblyReference.cache
+C:\Users\saidm\Desktop\Projects\RepositoryPatternsProject\RepositoryPatternsProject\obj\Debug\netcoreapp2.2\RepositoryPatternsProject.csproj.CoreCompileInputs.cache
+C:\Users\saidm\Desktop\Projects\RepositoryPatternsProject\RepositoryPatternsProject\obj\Debug\netcoreapp2.2\RepositoryPatternsProject.AssemblyInfoInputs.cache
+C:\Users\saidm\Desktop\Projects\RepositoryPatternsProject\RepositoryPatternsProject\obj\Debug\netcoreapp2.2\RepositoryPatternsProject.AssemblyInfo.cs
